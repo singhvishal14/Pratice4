@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Administrator\Desktop\Angular Self paced\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
